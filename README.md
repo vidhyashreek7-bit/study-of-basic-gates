@@ -63,18 +63,33 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-
+## PROGRAM
+```
+module logicgates(a,b,y1,y2,y3,y4,y5,y6);
+input a,b;
+output y1,y2,y3,y4,y5,y6;
+and g1(y1,a,b);
+or g2(y2,a,b);
+nand g3(y3,a,b);
+nor g4(y4,a,b);
+xor g5(y5,a,b);
+not g6(y6,a);
+endmodule
+```
 
  
-**Logic symbol & Truthtable**
+## Logic symbol & Truthtable:
 ![WhatsApp Image 2026-02-27 at 10 50 32 AM](https://github.com/user-attachments/assets/e0c6211d-4215-42fe-a7c2-0e3e4f706e5c)
 
-**RTL:** 
+## RTL Realization Output: 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5ba1a35f-9697-4c3a-92f0-01200249fa5c" />
+
+## RTL:
+<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/418609fe-dbe8-4a65-b930-72b91899f408" />
 
 
 **Result:**
-<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/418609fe-dbe8-4a65-b930-72b91899f408" />
+Thus the study and verification of the truth table of logic gates in Quartus II using Verilog programming .
 
 
 
