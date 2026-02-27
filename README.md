@@ -1,4 +1,6 @@
-### study-of-basic-gates
+# STUDY-OF-BASIC-GATES
+## Develooed By : VIDHYA SHREE K
+## Ref No : 25008027
 
 **AIM:** 
 
@@ -62,18 +64,17 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![WhatsApp Image 2026-02-27 at 10 50 32 AM](https://github.com/user-attachments/assets/e0c6211d-4215-42fe-a7c2-0e3e4f706e5c)
 
-**RTL realization Output:** 
+**RTL:** 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5ba1a35f-9697-4c3a-92f0-01200249fa5c" />
 
-**RTL**
 
 **Result:**
+<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/418609fe-dbe8-4a65-b930-72b91899f408" />
+
 
 
